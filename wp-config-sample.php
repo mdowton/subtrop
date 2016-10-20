@@ -20,19 +20,19 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'database_name_here');
+define('DB_NAME', 'surina');
 
 /** MySQL database username */
-define('DB_USER', 'username_here');
+define('DB_USER', 'Surina');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'password_here');
+define('DB_PASSWORD', 'e*4E9-Z3%Vddg*!A');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'epic-mysql-vm.cloudapp.net:3306');
 
 /** Database Charset to use in creating database tables. */
-define('DB_CHARSET', 'utf8');
+define('DB_CHARSET', 'utf8mb4');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         ' ?oba%IhnN5OtMr&u1oFJ*_6*3gpo4jzfk8tZi,7UwlZ0M1`ZU!J`h#sIt$%~h4*');
+define('SECURE_AUTH_KEY',  '5K0Ip7/x1RB3%ZX:V@*b9ORP B937!:_*}e,!yw6[xmj$F9@!iOLL:36x/% .CP?');
+define('LOGGED_IN_KEY',    '6=Rfk:_6/<!yPA8mmWhI}WSyZlQyA}Hh!p*M%h>`M(VPM6s<~FQsdp=AYCnK=5cT');
+define('NONCE_KEY',        'U[-S]}Q;NASSGH}59r+3=F`kg8C{a,yLsOLo?7`PM0B?9O~C3qqaC7vyCxcKUM4*');
+define('AUTH_SALT',        '-4T/{Z~h-2g{dbEb|9l3D[B^V#_?s~:O1.fP@nk!=nxJeQ&|;hqyc  3~=ii1uS#');
+define('SECURE_AUTH_SALT', '$f6}LJ@11N[?qNm~h9epg?YWGfpW~:{Kxcl;fjvF2c}<n/$L]I<qo&Lw9mU^wsv7');
+define('LOGGED_IN_SALT',   'Q-~vGQu_c4quZ68Uh_:LgL||,w1J:+_;D]5omV#,` WihMcu{^L=Zu~XX^WyhaEk');
+define('NONCE_SALT',       '=zph,lXqJ(8}ykcY;Id5)GD9a}5ShL@@l!p,5$)=OdE,cf@hz57+3kXgLhW NO:T');
 
 /**#@-*/
 
