@@ -20,10 +20,10 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'surina');
+define('DB_NAME', 'Lanscapes');
 
 /** MySQL database username */
-define('DB_USER', 'Surina');
+define('DB_USER', 'subtrop');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'e*4E9-Z3%Vddg*!A');
